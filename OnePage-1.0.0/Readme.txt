@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+/*Thanks for downloading this template!
 
 Template Name: BeaconPoint
 Template URL: https://bootstrapmade.com/BeaconPoint-multipurpose-bootstrap-template/
